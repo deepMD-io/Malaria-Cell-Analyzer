@@ -1,30 +1,13 @@
 ## Malaria-Cell-Analyzer
 
-Under Construction
 
-Live Web App: 
+Live Web App: http://malaria.test.woza.work/
 
-This is a prototype for an Ai web app that can batch diagnose malaria in segmented red blood cell images.
+This is a prototype for an Ai powered web app that can diagnose malaria in segmented red blood cell images.
 
 
 The process used to build and train the model is described in this Kaggle kernel:<br>
-
-
-**Summary of Model Performance**
-
-
-> *Scores for 5 Fold Cross Validation*
-> 
-> **Average Accuracy**:  0.964<br>
-> **Average Loss**:  0.111<br>
-> **Average AUC**:  0.964<br>
-> 
-> *Scores for the Holdout set*
-> 
-> **Accuracy**:  0.97<br>
-> **Loss**:  0.073<br>
-> **AUC**:  0.970<br>
-> **F1 Score**: 0.97<br>
+https://www.kaggle.com/vbookshelf/malaria-cell-analyzer-tensorflow-js-web-app
 
 
 **Dataset**
