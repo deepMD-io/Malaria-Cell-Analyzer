@@ -3,14 +3,18 @@
 
 Live Web App: http://malaria.test.woza.work/
 
-This is a prototype for an Ai powered web app that can diagnose malaria in segmented red blood cell images.
+<br>
+
+<img src="http://malaria.test.woza.work/assets/malaria_sample.png" width="350"></img>
+
+<br>
+
+This is a prototype for an Ai powered web app that can diagnose malaria in segmented red blood cell images. The app can accept multiple images as input.
 
 
 The process used to build and train the model is described in this Kaggle kernel:<br>
 https://www.kaggle.com/vbookshelf/malaria-cell-analyzer-tensorflow-js-web-app
 
-
-**Dataset**
 
 The dataset used for the training can be found here:<br>
 https://www.kaggle.com/iarunava/cell-images-for-detecting-malaria
