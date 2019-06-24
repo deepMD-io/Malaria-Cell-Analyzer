@@ -19,7 +19,8 @@ https://www.kaggle.com/vbookshelf/malaria-cell-analyzer-tensorflow-js-web-app
 The dataset used for the training can be found here:<br>
 https://www.kaggle.com/iarunava/cell-images-for-detecting-malaria
 
-Paper: Pre-trained convolutional neural networks as feature extractors toward improved Malaria parasite detection in thin blood smear images. PeerJ6:e4568<br>
+**Paper**<br>
+> Pre-trained convolutional neural networks as feature extractors toward improved Malaria parasite detection in thin blood smear images. PeerJ6:e4568<br>
 Rajaraman S, Antani SK, Poostchi M, Silamut K, Hossain MA, Maude, RJ, Jaeger S, Thoma GR. (2018)<br>
 https://peerj.com/articles/4568/
 
